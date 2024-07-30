@@ -7,7 +7,7 @@ import { ReactNode } from 'react';
 // import Sidebar from '@/components/Sidebar';
 
 export const metadata: Metadata = {
-  title: 'YOOM',
+  title: 'BOOM',
   description: 'A workspace for your team, powered by Stream Chat and Clerk.',
 };
 
